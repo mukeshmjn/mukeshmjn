@@ -12,7 +12,7 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <b>here</b></a><br>
+Ask me anything <b>here</b></a>
 <a href="mailto:mukeshmahajanonhisway@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
